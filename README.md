@@ -1,4 +1,9 @@
-# Project-PCD-Kelompok_30
+# Project PCD Kelompok 30
+
+### Project Title
+- Pengidentifikasian Penyakit Kulit Ringan Untuk Pengklasifikasian Dalam Mempermudah Masyarakat Melakukan Diagnosis Mandiri
+
+### Nama Anggota Kelompok
 
 
 |              Nama           |     NIM     |
